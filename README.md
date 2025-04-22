@@ -21,5 +21,19 @@ Design Tools:
 
 ERD: draw.io / Lucidchart
 
+💡 Key Design Decisions
+
+Normalization:
+
+Split product and product_item to handle variations (e.g., size/color).
+
+Flexible Attributes:
+
+Used attribute_type (text/number/boolean) for extensibility.
+
+Performance:
+
+Added indexes on frequently queried columns (product_id, sku).
+
 SQL Scripting: MySQL Workbench / VSCode + SQL Extension
 
