@@ -1,5 +1,6 @@
 
 📦 E-Commerce Database Design
+
 *An Entity-Relationship Diagram (ERD) and SQL implementation for an online store.*
 
 📌 Project Overview
