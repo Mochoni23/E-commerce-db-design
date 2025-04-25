@@ -1,5 +1,7 @@
 
-📦 E-Commerce Database Design
+📦 E-Commerce Database Design(group 787)
+
+Group member-Abigael Mochoni
 
 *An Entity-Relationship Diagram (ERD) and SQL implementation for an online store.*
 
@@ -36,4 +38,7 @@ Performance:
 Added indexes on frequently queried columns (product_id, sku).
 
 SQL Scripting: MySQL Workbench / VSCode + SQL Extension
+
+
+
 
